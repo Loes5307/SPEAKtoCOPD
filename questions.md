@@ -6,7 +6,7 @@
 1. What is your age? 
       - option 18 to 120
 
-2. What is your gender
+2. What is your gender?
       - Woman  
       - Man  
       - Otherwise
@@ -86,7 +86,7 @@
 8. Are you currently receiving additional treatment for your lungs?
     [] No
     [] Inhalations increased
-    [] Prednison cure
+    [] Prednison
     [] Antibiotics
     [] Hospitalization
 
